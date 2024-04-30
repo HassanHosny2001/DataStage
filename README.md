@@ -3,12 +3,6 @@
 
 This project involves creating data marts and performing ETL processes to serve business needs in a retail environment. The main tasks include creating a data mart (*RETAIL_DATA_MART*) from source data, transforming it, and answering business questions based on the transformed data. Additionally, a bonus calculation based on customer profitability is required.
 
-**Files:**
-
-- *logical_data_model.pdf*: Contains the logical data model.
-- *physical_data_model.pdf*: Displays the physical data model.
-- *sample_data.csv*: Sample data for testing and development.
-
 **ETL Process:**
 
 1. **Extract**: Read data from the source system or files.
