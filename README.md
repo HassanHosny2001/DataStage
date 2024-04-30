@@ -22,3 +22,11 @@ This project involves creating data marts and performing ETL processes to serve 
 **Bonus Calculation:**
 
 The bonus is calculated using the equation: `Annual_Incomek$ * SpendingScore * 100`. Customers who generate profit are eligible for the bonus.
+
+**ETL Snapshots**
+
+- Task1
+![image](SnapShots/Retail_Data_Mart.png)
+
+- Task2
+![image](SnapShots/ACTIVATION_SALES_DATA_MART.png)
